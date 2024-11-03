@@ -1,1 +1,0 @@
-# In this project we will predict the type of wine using deep learning technique 
